@@ -87,14 +87,3 @@ function transiImg(){
 
 }
 setInterval(transiImg,1000);
-
-
-
-
-
-
-/*
-1). agregar un boton de eliminar
-
-
-*/
